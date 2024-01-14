@@ -1,5 +1,7 @@
 # QR Code Component Readme
 
+![Screenshot from 2024-01-14 21-46-21](https://github.com/Mayank-Garg7/Qr_Code/assets/113042462/38659db1-e525-4182-a25d-1c7f20fa3b0f)
+
 ## Overview
 
 This project is a simple HTML webpage that features a QR code component. The QR code serves as a link to Frontend Mentor, encouraging users to improve their front-end skills by building projects.
