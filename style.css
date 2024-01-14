@@ -4,18 +4,25 @@ body{
     text-align: center;
     background-color: hsl(230, 63%, 87%);
 }
-.box{
+
+.box {
     font-family: 'Outfit', sans-serif;
-    margin:20px;
-    width: 360px;   
-    border: 1px solid white; 
+    margin: 20px;
+    width: 25%;
+    border: 1px solid white;
     border-radius: 20px;
-    padding: 15px;
+    padding: 20px;
     background-color: aliceblue;
 }
 
-.images{
+.images {
     border-radius: 20px;
-    height: 350px;
-    width: 350px;
+    max-width: 100%;
+    height: auto;
+}
+
+@media (min-width: 768px) {
+    .box {
+        max-width: 768px;
+    }
 }
