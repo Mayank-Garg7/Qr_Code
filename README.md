@@ -41,6 +41,8 @@ Once you've made your desired changes, you can deploy the project on a web serve
 
 - Favicon image source: [favicon-32x32.png](./images/favicon-32x32.png)
 - QR code image source: [image-qr-code.png](./images/image-qr-code.png)
+  
+![image-qr-code](https://github.com/Mayank-Garg7/Qr_Code/assets/113042462/6083a409-5634-4ca8-b7a5-0fd2db4b2138)
 
 ## License
 
