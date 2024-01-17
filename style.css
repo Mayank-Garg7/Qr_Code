@@ -31,5 +31,6 @@ body {
 
 .container > p{
     text-align: center;
+    color: gray;
 }
 
