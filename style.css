@@ -1,9 +1,9 @@
 body {
-    background-color: hsl(230, 63%, 87%);
+    background-color: hsl(212, 45%, 89%);
 }
 
 .maincontainer {
-    background-color: hsl(230, 63%, 87%);
+    background-color: hsl(212, 45%, 89%);
     height: 100vh;
     width: 100wh;
     display: flex;
@@ -16,25 +16,17 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    width: 300px;
-    height: 28rem;
-    min-width: 300px;
+    width: 280px;
+    height: 29rem;
+    min-width: 280px;
     background-color: hsl(0, 0%, 100%);
-    border: 1px solid black;
     border-radius: 20px;
-    box-shadow: 5px 5px 0px rgb(10, 9, 9);
 }
 
 .images {
     border-radius: 20px;
     max-width: 100%;
     height: auto;
-}
-
-@media (min-width: 768px) {
-    .box {
-        max-width: 768px;
-    }
 }
 
 .container > p{
