@@ -29,6 +29,10 @@ body {
     height: auto;
 }
 
+h1{
+    font-size: 21px;
+}
+
 .container > p{
     text-align: center;
     color: gray;
